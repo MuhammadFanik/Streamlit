@@ -1,0 +1,21 @@
+date,city,tea_type,cups_sold,revenue
+2025-01-01,London,Black Tea,120,360.00
+2025-01-02,London,Green Tea,95,332.50
+2025-01-03,London,Herbal Tea,80,280.00
+2025-01-04,Manchester,Black Tea,110,330.00
+2025-01-05,Manchester,Chai,90,315.00
+2025-01-06,Birmingham,Green Tea,70,245.00
+2025-01-07,Birmingham,Herbal Tea,65,227.50
+2025-01-08,Leeds,Black Tea,100,300.00
+2025-01-09,Leeds,Chai,85,297.50
+2025-01-10,Liverpool,Green Tea,75,262.50
+2025-01-11,Liverpool,Black Tea,105,315.00
+2025-01-12,Bristol,Herbal Tea,60,210.00
+2025-01-13,Bristol,Chai,88,308.00
+2025-01-14,Oxford,Green Tea,72,252.00
+2025-01-15,Oxford,Black Tea,98,294.00
+2025-01-16,Cambridge,Herbal Tea,55,192.50
+2025-01-17,Cambridge,Chai,92,322.00
+2025-01-18,Brighton,Green Tea,78,273.00
+2025-01-19,Brighton,Black Tea,115,345.00
+2025-01-20,York,Herbal Tea,68,238.00
